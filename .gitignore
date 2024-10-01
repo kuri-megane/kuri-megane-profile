@@ -1,3 +1,5 @@
+# PDFは各自ビルドとし追跡からは外す
+docs/*.pdf
 
 # Created by https://www.toptal.com/developers/gitignore/api/node,linux,macos,windows,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,linux,macos,windows,visualstudiocode
