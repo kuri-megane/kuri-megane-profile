@@ -1,0 +1,28 @@
+name: build pdf
+
+on:
+  push:
+    tags:
+    - 'v*'
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: build pdf and upload release
+    runs-on: ubuntu-latest
+    timeout-minutes: 1
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: yarn
+      - name: Install dependencies
+        run: yarn
+      - name: build pdf
+        run: yarn build:pdf
+      - name: upload release asset
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            ./docs/resume.pdf
