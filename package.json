@@ -1,0 +1,34 @@
+{
+  "name": "kuri-megane-profile",
+  "version": "2.0.0",
+  "description": "くりメガネのプロフィール",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "lint": "textlint docs/index.md",
+    "build:pdf": "md-to-pdf docs/index.md --config-file ./pdf-configs/config.js",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuri-megane/kuri-megane-profile.git"
+  },
+  "author": "kuri-megane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuri-megane/kuri-megane-profile/issues"
+  },
+  "homepage": "https://github.com/kuri-megane/kuri-megane-profile#readme",
+  "engines": {
+    "node": "22.x",
+    "npm": "^10.x"
+  },
+  "dependencies": {
+    "husky": "^9.1.6",
+    "md-to-pdf": "^5.2.4",
+    "textlint": "^14.2.0",
+    "textlint-rule-no-todo": "^2.0.1"
+  }
+}
