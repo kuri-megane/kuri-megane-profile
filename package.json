@@ -29,6 +29,7 @@
     "husky": "^9.1.6",
     "md-to-pdf": "^5.2.4",
     "textlint": "^14.2.0",
-    "textlint-rule-no-todo": "^2.0.1"
+    "textlint-rule-preset-ja-spacing": "^2.4.3",
+    "textlint-rule-preset-ja-technical-writing": "^10.0.1"
   }
 }
