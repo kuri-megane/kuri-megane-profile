@@ -223,7 +223,9 @@
 | Windows       | 10年以上 | インストールから環境構築、設定、開発が可能 |
 | Linux(Ubuntu) | 10年以上 | インストールから環境構築、設定、開発が可能 |
 
-<!-- Macは2016年より、Windowsは2013年より、Linuxは2014年より -->
+コーディング作業はMacで行うことがほとんどですが、Windows(WSL)の利用経験もあります。
+
+サーバーはLinuxとしてUbuntu、CentOSの経験があります。
 
 ### 言語・フレームワーク
 
@@ -249,6 +251,8 @@
 | SQLite     | 半年     | SQLで操作ができる                     |
 | PostgreSQL | 半年     | SQLで操作ができる                     |
 
+MySQLの経験がほとんどです。ごくまれにSQLite, PostgreSQLを使います。
+
 <div style="page-break-before:always"></div>
 
 ### クラウド
@@ -260,6 +264,9 @@
 | S3, Lambda, EC2                              | 4年      | 自分で構築し運用でき、自作アプリで利用経験有 |
 | APIGateway, Athena, RDS, Amazon Linux 2, ECS | 2年      | インフラ部門と協力しながら開発できる         |
 
+S3, Lambda, EC2の経験が最も長く、特に1社目では常にこれらを使った開発をしています。
+
+APIGateway, Athena, RDS, Amazon Linux 2, ECSはインフラ部門が構築したものを運用した経験があります。
 
 #### Microsoft Azure
 
@@ -267,8 +274,9 @@
 | :---------------------------------------------------------- | :------- | :----------------------------------- |
 | Kubernetes Service, Blob Storage, Container Apps, Functions | 1年      | インフラ部門と協力しながら開発できる |
 
-製品名にAzureと付くものの表記を省略しました。
+Kubernetes Service, Blob Storage, Container Apps, Functionsはインフラメンバーのサポートを受けながら自分で構築し運用した経験があります。
 
+製品名にAzureと付くものの表記を省略しました。
 
 #### その他
 
@@ -276,6 +284,7 @@
 | :-------------------- | :------- | :----------------------------------- |
 | Terraform, Kubernetes | 1年      | インフラ部門と協力しながら開発できる |
 
+Terraform, KubernetesはAzureサービスを使用している2社目において既にあるコードを見ながら実装した経験があります。
 
 ### CIツール
 
@@ -285,6 +294,7 @@
 | CircleCI      | 2年      | 自作アプリで利用経験有                         |
 | GithubActions | 1年      | 状況に応じて最適なコードが書ける               |
 
+CIはデプロイ時には常に利用し、新規開発においては自分で処理を実装できます。
 
 ### その他
 
@@ -294,6 +304,14 @@
 | Docker  | 4年      | Dockerfile, docker-compse.ymlが書ける                |
 | Grafana | 1年      | インフラ部門が整備したものをチーム向けに活用できる |
 | Sentry  | 1年      | インフラ部門が整備したものをチーム向けに活用できる |
+
+OpenCVは学生時代の研究で使用しておりリファレンスを読みながらPythonでの利用経験があります。
+
+Git, Dockerはどの開発においても必ず使用します。
+
+Grafana, Sentryはインフラ部門が整備したものをチーム向けにダッシュボードや設定を追加して運用した経験があります。
+
+コミュニケーションツールはslackを使っています。
 
 <div style="page-break-before:always"></div>
 
