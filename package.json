@@ -1,6 +1,6 @@
 {
   "name": "kuri-megane-profile",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "くりメガネのプロフィール",
   "main": "index.js",
   "directories": {
