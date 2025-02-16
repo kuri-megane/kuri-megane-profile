@@ -8,6 +8,7 @@
   },
   "scripts": {
     "lint": "textlint docs/index.md",
+    "lint:fix": "textlint --fix docs/index.md",
     "build:pdf": "md-to-pdf docs/index.md --config-file ./pdf-configs/config.js",
     "prepare": "husky"
   },
