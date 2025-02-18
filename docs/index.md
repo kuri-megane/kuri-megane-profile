@@ -18,7 +18,7 @@
 
 ## 携わりたい業務領域
 
-開発が主であったとしてもユーザーとの対話に労力を惜しまず、ユーザーよりもユーザーの課題に熟知した上での提案ができることが肝要です。
+開発作業であったとしてもユーザーとの対話に労力を惜しまず、ユーザーよりもユーザーの課題に熟知した上での提案できることが肝要です。
 
 開発としてはフロントからバックエンドまで一通り携わった経験があり、工程の上流下流の区別なく、計画や設計などの工程にも一体的かつ全体を俯瞰してアジリティに貢献できることが本質を追求する手段として重要だと考えています。
 
@@ -209,7 +209,12 @@
   - 開発メンバー
   - 専任エンジニアが最小1名のなか、アプリケーション開発とドローン経路作成基盤の両方の開発を担当
   - アプリケーションの問い合わせ業務、障害対応、不具合改修をこなしながら新機能開発を並行して行う
+
+<!-- textlint-disable ja-technical-writing/sentence-length -->  
+
 - 技術: TypeScript,  Vue.js, Node.js, Laravel, Cesium, MQTT, EMQX, C++, Microsoft Azure, AWS S3, Sentry, Grafana, Terraform, Kubernetes
+
+<!-- textlint-enable ja-technical-writing/sentence-length -->  
 
 <!-- https://stackshare.io/sensyn-robotics/sensyn-core-and-apps より該当物を抜粋 -->
 
