@@ -9,7 +9,7 @@ on:
 jobs:
   build:
     name: build pdf and upload release
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22
     timeout-minutes: 1
     steps:
       - uses: actions/checkout@v4
