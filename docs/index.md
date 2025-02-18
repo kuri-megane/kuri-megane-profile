@@ -37,6 +37,7 @@
 サーバーサイドのAPI開発の経験が多いですが、フロントの開発もやりがいを感じています。
 ウォータフォール的な開発工程の領域だけでなく、顧客要求の深掘りから仮説を立てて仕様を起こし、開発を通じて効果検証するサイクルを回す力を伸ばしていきたいと考えています。
 
+<div style="page-break-before:always"></div>
 
 ## 得意分野・活かせる経験
 
@@ -154,7 +155,9 @@
   - 徹底したテスト導入により不具合を抑制し手戻りを削減
   - ベテランメンバーも含めたチーム全体の得意分野を活かす分担に変更し、開発速度を向上
 - 技術: Python, TypeScript, Vue.js, Node.js, Amazon RDS, Amazon Linux 2, Amazon ECS, Jenkins, Docker, Solr
-  
+
+<div style="page-break-before:always"></div>
+
 ### 2022年1月~2023年1月(12ヶ月)
 
 #### 地点データの新規追加、更新、運用
@@ -169,6 +172,21 @@
 - 組織: 5人
 - 役割: 開発メンバー
 - 技術: Python, Java, ShellScript, Jenkins
+
+### 2023年2月~2023年9月(8ヶ月)
+
+#### 電力設備点検アプリケーションの開発
+
+- 担当業務
+  - TypeScriptによるAPI開発
+  - Vue.jsおよびTypeScriptによWeb画面開発
+- 成果・実績
+  - ドローンによる設備点検後の撮影データの活用の新機能開発による契約更新に貢献
+- 組織: テックリード1名、他のエンジニアは社内外0-2名、非エンジニアのPMは2名
+- 役割: 開発メンバー
+- 技術: TypeScript, Vue.js
+
+<div style="page-break-before:always"></div>
 
 ### 2023年2月~現在
 
@@ -195,19 +213,6 @@
 
 <!-- https://stackshare.io/sensyn-robotics/sensyn-core-and-apps より該当物を抜粋 -->
 
-### 2023年2月~2023年9月(8ヶ月)
-
-#### 電力設備点検アプリケーションの開発
-
-- 担当業務
-  - TypeScriptによるAPI開発
-  - Vue.jsおよびTypeScriptによWeb画面開発
-- 成果・実績
-  - ドローンによる設備点検後の撮影データの活用の新機能開発による契約更新に貢献
-- 組織: テックリード1名、他のエンジニアは社内外に0-2名、非エンジニアのPMが2名
-- 役割: 開発メンバー
-- 技術: TypeScript, Vue.js
-
 <div style="page-break-before:always"></div>
 
 ## テクニカルスキル
@@ -215,16 +220,6 @@
 [stackshare](https://stackshare.io/kuri-megane)
 
 使用時期(西暦下二桁)に印をつけています。
-
-### OS
-
-| 種別          |  -19  |  -20  |  -21  |  -22  |  23-  | 備考 |
-| :------------ | :---: | :---: | :---: | :---: | :---: | :--- |
-| Mac           |       |   x   |   x   |   x   |   x   |      |
-| Windows       |   x   |   x   |   x   |   x   |       |      |
-| Linux(Ubuntu) |   x   |   x   |   x   |   x   |       |      |
-
-コーディング作業はMacで行うことがほとんどですが、Windows(WSL), Ubuntuの利用経験もあります。
 
 ### 言語・フレームワーク
 
@@ -320,6 +315,8 @@ Kubernetes Service, Blob Storage, Container Apps, Functionsはインフラメン
 
 Terraform, KubernetesはAzureサービスを使用している2社目において既存コードを見ながら実装した経験があります。
 
+<div style="page-break-before:always"></div>
+
 ### CIツール
 
 | 種別          |  -19  |  23-  | 備考                                           |
@@ -328,6 +325,17 @@ Terraform, KubernetesはAzureサービスを使用している2社目におい�
 | GithubActions |       |   x   |                                                |
 
 CIはデプロイ時には常に利用し、新規開発においては自分で処理を実装できます。
+
+
+### OS
+
+| 種別          |  -19  |  -20  |  -21  |  -22  |  23-  | 備考 |
+| :------------ | :---: | :---: | :---: | :---: | :---: | :--- |
+| Mac           |       |   x   |   x   |   x   |   x   |      |
+| Windows       |   x   |   x   |   x   |   x   |       |      |
+| Linux(Ubuntu) |   x   |   x   |   x   |   x   |       |      |
+
+コーディング作業はMacで行うことがほとんどですが、Windows(WSL), Ubuntuの利用経験もあります。
 
 ### その他
 
@@ -352,7 +360,9 @@ Grafana, Sentryはインフラ部門が整備したものをチーム向けに�
 ## アカウント
 
 <a href="https://github.com/kuri-megane" target="_blank"><img alt="Github" src="https://img.shields.io/badge/kuri--megane-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/megane_kuri" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@megane_kuri-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://twitter.com/megane_kuri" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@megane_kuri-%2312100E.svg?&style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://qiita.com/kuri_megane" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-kuri--megane-0.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
+
 
 ## 最終更新
 
