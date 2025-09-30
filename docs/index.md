@@ -373,6 +373,6 @@ Grafana, Sentryはインフラ部門が整備したものをチーム向けに�
 
 <!-- textlint-disable ja-technical-writing/ja-no-mixed-period -->
 
-2025年1月31日
+2025年9月30日
 
 <!-- textlint-enable ja-technical-writing/ja-no-mixed-period -->
