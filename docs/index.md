@@ -207,7 +207,7 @@
   - Qiitaに投稿([QAを巻き込んだテストの仕組み化でリリース頻度を落とさずに品質を向上させた話](https://qiita.com/kuri_megane/items/02f3aafe091d5b56ebea))
   - プレスリリースの発表([SENSYN COREとDJI Dock3の連携を強化-自動飛行からAI分析・レポートまで国内開発で完結-](https://www.sensyn-robotics.com/news/sensyn-core-dji-dock3-next-level-integration))
   - プレスリリースの発表([ソリューション開発プラットフォームSENSYN COREとDJI Pilot2の連携を強化-飛行ルートの作成・管理の利便性が大幅に向上-](https://www.sensyn-robotics.com/news/sensyn-core-dji-pilot-2-integration))
-- 組織: テックリード1-2名、他のエンジニアは社内外0-4名、非エンジニアのPMは社内外1-5名、他部署に営業メンバー、カスタマーサポートメンバーが在籍
+- 組織: テックリード1-2名、エンジニア(社内外)0-4名、プロジェクトマネージャー・プロダクトオーナー(社内外)1-5名
 - 役割: 
   - 開発メンバー
   - 専任エンジニアが最小1名のなか、アプリケーション開発とドローン経路作成基盤の両方の開発を担当
