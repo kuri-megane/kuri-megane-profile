@@ -215,7 +215,7 @@
 
 <!-- textlint-disable ja-technical-writing/sentence-length -->  
 
-- 技術: TypeScript,  Vue.js, Node.js, Laravel, Cesium, MQTT, EMQX, Microsoft Azure, AWS S3, Sentry, Grafana, Terraform, Kubernetes
+- 技術: TypeScript,  Vue.js, Node.js, Laravel, Cesium, MQTT, EMQX, Microsoft Azure, AWS S3, AWS Lambda, Sentry, Grafana, Terraform, Kubernetes
 
 <!-- textlint-enable ja-technical-writing/sentence-length -->  
 
@@ -289,7 +289,7 @@ MySQLの経験がほとんどです。ごくまれにSQLite, PostgreSQLを使い
 | 種別           |  -19  |  -20  |  -21  |  -22  |  23-  | 備考 |
 | :------------- | :---: | :---: | :---: | :---: | :---: | :--- |
 | S3             |       |   x   |   x   |   x   |   x   |      |
-| Lambda         |       |   x   |   x   |   x   |       |      |
+| Lambda         |       |   x   |   x   |   x   |   x   |      |
 | EC2            |       |   x   |   x   |   x   |       |      |
 | APIGateway     |       |   x   |       |   x   |       |      |
 | Athena         |       |   x   |   x   |       |       |      |
