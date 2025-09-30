@@ -215,7 +215,7 @@
 
 <!-- textlint-disable ja-technical-writing/sentence-length -->  
 
-- 技術: TypeScript,  Vue.js, Node.js, Laravel, Cesium, MQTT, EMQX, C++, Microsoft Azure, AWS S3, Sentry, Grafana, Terraform, Kubernetes
+- 技術: TypeScript,  Vue.js, Node.js, Laravel, Cesium, MQTT, EMQX, Microsoft Azure, AWS S3, Sentry, Grafana, Terraform, Kubernetes
 
 <!-- textlint-enable ja-technical-writing/sentence-length -->  
 
