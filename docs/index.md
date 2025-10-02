@@ -32,10 +32,9 @@
 
 ## 得意分野・活かせる経験
 
-- Python, TypeScript, PHP, Javaによるバックエンドの開発
+- Python, TypeScript, PHP, JavaによるバックエンドのAPI開発
 - Vue.jsおよびTypeScriptによるフロントエンドの開発
 - ユニットテストやE2Eテストなどによる品質担保
-- Pythonを用いた品質の定量的評価
 - JenkinsやGithubなどのCIツールによる運用改善、Dockerなどによる開発環境改善
 - 顧客課題の本質を追求した課題解決提案
 
