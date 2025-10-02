@@ -164,6 +164,8 @@ Webシステムのリプレイスでは、不具合が多発する中での参�
 - 役割: 開発メンバー
 - 技術: Python, Java, ShellScript, Jenkins
 
+<div style="page-break-before:always"></div>
+
 ### 2社目 社会系インフラのDX改革のソリューション企業
 
 ドローンを用いた点検業務の効率化を軸に、新機能開発や新機材への対応などを担当しています。
