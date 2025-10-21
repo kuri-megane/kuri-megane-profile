@@ -55,6 +55,7 @@
 - 高等学校教諭第一種免許状 (工業) 取得 (2017年3月)
 - 応用情報技術者試験 合格 (2017年12月)
 - 情報処理安全確保支援士試験 合格 (2018年12月)
+- 第二種電気工事士 取得 (2025年9月)
 
 ## 自己PR
 
@@ -190,7 +191,7 @@
 
 ### 2023年2月~現在
 
-#### 設備点検計画設計アプリケーションの開発、運用、進捗管理、仕様検討、顧客理解、品質担保
+#### 設備点検アプリケーションの開発、運用、進捗管理、仕様検討、顧客理解、品質担保
 
 - 担当業務
   - TypeScript, Node.js, LaravelによるAPI開発
@@ -204,15 +205,17 @@
 - 成果・実績
   - 機能開発による顧客現場の安全性向上、営業提案のバリエーション強化、点検業務の効率化による、売上への貢献
   - Qiitaに投稿([QAを巻き込んだテストの仕組み化でリリース頻度を落とさずに品質を向上させた話](https://qiita.com/kuri_megane/items/02f3aafe091d5b56ebea))
-- 組織: テックリード1-2名、他のエンジニアは社内外0-4名、非エンジニアのPMは社内外1-5名、他部署に営業メンバー、カスタマーサポートメンバーが在籍
+  - [プレスリリースの発表(2025年6月)](https://www.sensyn-robotics.com/news/sensyn-core-dji-dock3-next-level-integration)
+  - [プレスリリースの発表(2025年9月)](https://www.sensyn-robotics.com/news/sensyn-core-dji-pilot-2-integration)
+- 組織: テックリード1-2名、エンジニア(社内外)0-4名、プロジェクトマネージャー・プロダクトオーナー(社内外)1-5名
 - 役割: 
   - 開発メンバー
-  - 専任エンジニアが最小1名のなか、アプリケーション開発とドローン経路作成基盤の両方の開発を担当
+  - 専任エンジニアが最小1名のなか、アプリケーション開発(フロントエンド)とドローン経路作成基盤(バックエンド・クラウドインフラ)の両方の開発を担当
   - アプリケーションの問い合わせ業務、障害対応、不具合改修をこなしながら新機能開発を並行して行う
 
 <!-- textlint-disable ja-technical-writing/sentence-length -->  
 
-- 技術: TypeScript,  Vue.js, Node.js, Laravel, Cesium, MQTT, EMQX, C++, Microsoft Azure, AWS S3, Sentry, Grafana, Terraform, Kubernetes
+- 技術: TypeScript, Vue.js, Node.js, Laravel, Cesium, MQTT, EMQX, Microsoft Azure, AWS S3, AWS Lambda, Sentry, Grafana, Terraform, Kubernetes, Gemini, Github Copilot
 
 <!-- textlint-enable ja-technical-writing/sentence-length -->  
 
@@ -286,7 +289,7 @@ MySQLの経験がほとんどです。ごくまれにSQLite, PostgreSQLを使い
 | 種別           |  -19  |  -20  |  -21  |  -22  |  23-  | 備考 |
 | :------------- | :---: | :---: | :---: | :---: | :---: | :--- |
 | S3             |       |   x   |   x   |   x   |   x   |      |
-| Lambda         |       |   x   |   x   |   x   |       |      |
+| Lambda         |       |   x   |   x   |   x   |   x   |      |
 | EC2            |       |   x   |   x   |   x   |       |      |
 | APIGateway     |       |   x   |       |   x   |       |      |
 | Athena         |       |   x   |   x   |       |       |      |
@@ -373,6 +376,6 @@ Grafana, Sentryはインフラ部門が整備したものをチーム向けに�
 
 <!-- textlint-disable ja-technical-writing/ja-no-mixed-period -->
 
-2025年1月31日
+2025年9月30日
 
 <!-- textlint-enable ja-technical-writing/ja-no-mixed-period -->
