@@ -184,6 +184,10 @@ Webシステムのリプレイスでは、不具合が多発する中での参�
 - 役割: 開発メンバー
 - 技術: TypeScript, Vue.js
 
+<div style="page-break-before:always"></div>
+
+### 2023年2月~現在
+
 #### 設備点検アプリケーションの開発、運用、進捗管理、仕様検討、顧客理解、品質担保
 
 - 時期: 2023年2月~現在
@@ -209,7 +213,7 @@ Webシステムのリプレイスでは、不具合が多発する中での参�
 
 <!-- textlint-disable ja-technical-writing/sentence-length -->  
 
-- 技術: TypeScript, Vue.js, Node.js, Laravel, Cesium, MQTT, EMQX, Microsoft Azure, AWS S3, AWS Lambda, Sentry, Grafana, Terraform, Kubernetes
+- 技術: TypeScript, Vue.js, Node.js, Laravel, Cesium, MQTT, EMQX, Microsoft Azure, AWS S3, AWS Lambda, Sentry, Grafana, Terraform, Kubernetes, Gemini, Github Copilot
 
 <!-- textlint-enable ja-technical-writing/sentence-length -->  
 
