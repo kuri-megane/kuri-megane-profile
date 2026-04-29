@@ -10,7 +10,7 @@ jobs:
   build:
     name: build pdf and upload release
     runs-on: ubuntu-latest
-    timeout-minutes: 1
+    timeout-minutes: 3
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
