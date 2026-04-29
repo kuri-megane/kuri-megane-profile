@@ -19,7 +19,7 @@ yarn install
 
 ## 文書作成方法
 
-適用されるtextlintのルールの詳細は [Github](https://github.com/textlint/textlint/wiki/Collection-of-textlint-rule) を参考にしてください。
+適用されるtextlintのルールの詳細は [GitHub](https://github.com/textlint/textlint/wiki/Collection-of-textlint-rule) を参考にしてください。
 
 ### lintによる文章構成
 
@@ -38,5 +38,5 @@ yarn build:pdf
 
 ## デプロイ
 
-Githubのリリース機能よりタグを打ってください。
+GitHubのリリース機能よりタグを打ってください。
 cf. [リポジトリのリリースを管理する](https://docs.github.com/ja/repositories/releasing-projects-on-github/managing-releases-in-a-repository)
