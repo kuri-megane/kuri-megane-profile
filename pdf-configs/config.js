@@ -6,6 +6,9 @@ module.exports = {
     smartypants: true,
   },
   dest: "./docs/resume.pdf",
+  launch_options: {
+    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+  },
   pdf_options: {
     "format": "A4",
     "margin": "30mm 20mm",
